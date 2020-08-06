@@ -1,6 +1,6 @@
 {
   "name": "@lono/logger",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "@lono/logger",
   "scripts": {
     "build": "babel lib -d dist",
